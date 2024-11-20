@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LineConcept.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LineConcept.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\css\\style.css",
+      "PackagePath": "staticwebassets\\ui\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\ui\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\404\\404.png",
+      "PackagePath": "staticwebassets\\ui\\images\\404\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\account\\Account.png",
+      "PackagePath": "staticwebassets\\ui\\images\\account\\Account.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\account\\Account1.png",
+      "PackagePath": "staticwebassets\\ui\\images\\account\\Account1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\apps\\apple-app-store.png",
+      "PackagePath": "staticwebassets\\ui\\images\\apps\\apple-app-store.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\apps\\google-play-store.png",
+      "PackagePath": "staticwebassets\\ui\\images\\apps\\google-play-store.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\blog\\post-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\blog\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\blog\\post-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\blog\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\blog\\post-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\blog\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\blog\\post-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\blog\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\blog\\post-5.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\blog\\post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\blog\\video-icon.png",
+      "PackagePath": "staticwebassets\\ui\\images\\blog\\video-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\call-to-action\\cta-background.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\call-to-action\\cta-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\call-to-action\\google-play-button.png",
+      "PackagePath": "staticwebassets\\ui\\images\\call-to-action\\google-play-button.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\call-to-action\\mockup.png",
+      "PackagePath": "staticwebassets\\ui\\images\\call-to-action\\mockup.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\category-slider\\amazon.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\category-slider\\amazon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\category-slider\\category-02.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\category-slider\\category-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\category-slider\\category-03.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\category-slider\\category-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\category-slider\\category-04.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\category-slider\\category-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\category-slider\\category-05.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\category-slider\\category-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\category-slider\\category-06.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\category-slider\\category-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\contact-us\\contact-us.png",
+      "PackagePath": "staticwebassets\\ui\\images\\contact-us\\contact-us.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\ui\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\footer\\phone-icon.png",
+      "PackagePath": "staticwebassets\\ui\\images\\footer\\phone-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\home\\hero.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\home\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\home\\hero.png",
+      "PackagePath": "staticwebassets\\ui\\images\\home\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\logo-footer.png",
+      "PackagePath": "staticwebassets\\ui\\images\\logo-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\logo.png",
+      "PackagePath": "staticwebassets\\ui\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\logo1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\logo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\nav-toogle-icon.png",
+      "PackagePath": "staticwebassets\\ui\\images\\nav-toogle-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\products\\products-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\products\\products-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\products\\products-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\products\\products-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\products\\products-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\products\\products-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\products\\products-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\products\\products-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\subscription\\subscription-back.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\subscription\\subscription-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\team\\team1.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\team\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\team\\team2.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\team\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\team\\team3.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\team\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\team\\team4.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\team\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\user\\user-thumb.jpg",
+      "PackagePath": "staticwebassets\\ui\\images\\user\\user-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\images\\widget\\store-01.png",
+      "PackagePath": "staticwebassets\\ui\\images\\widget\\store-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\js\\script.js",
+      "PackagePath": "staticwebassets\\ui\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\bootstrap\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\bootstrap\\bootstrap-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\bootstrap\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\bootstrap\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\ui\\plugins\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\google-map\\images\\marker.png",
+      "PackagePath": "staticwebassets\\ui\\plugins\\google-map\\images\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\google-map\\map.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\google-map\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\jquery-nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\jquery-nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\jquery-nice-select\\js\\fastclick.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\jquery-nice-select\\js\\fastclick.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\jquery-nice-select\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\jquery-nice-select\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\jquery-nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\jquery-nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\jquery-nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\jquery-nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\jquery-nice-select\\js\\prism.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\jquery-nice-select\\js\\prism.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\raty\\jquery.raty-fa.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\raty\\jquery.raty-fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\README.markdown",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\README.markdown"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether-theme-arrows-dark.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether-theme-arrows-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether-theme-arrows-dark.min.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether-theme-arrows-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether-theme-arrows.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether-theme-arrows.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether-theme-arrows.min.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether-theme-arrows.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether-theme-basic.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether-theme-basic.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether-theme-basic.min.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether-theme-basic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\css\\tether.min.css",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\css\\tether.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\js\\tether.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\js\\tether.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\LineConcept\\wwwroot\\ui\\plugins\\tether\\js\\tether.min.js",
+      "PackagePath": "staticwebassets\\ui\\plugins\\tether\\js\\tether.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LineConcept.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LineConcept.props",
+      "PackagePath": "build\\LineConcept.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LineConcept.props",
+      "PackagePath": "buildMultiTargeting\\LineConcept.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LineConcept.props",
+      "PackagePath": "buildTransitive\\LineConcept.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
